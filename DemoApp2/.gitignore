@@ -1,0 +1,29 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse/IntelliJ
+*.iml
+.idea/
+*.log
+*.tmp
+*.swp
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven/Gradle
+.mvn/
+!mvnw
+!mvnw.cmd
+.gradle/
+build/
+
+# Application Properties
+application.properties
+application.yml
